@@ -8,7 +8,7 @@ module.exports = {
     themeConfig: {
         repo: 'unisens',
         // if your docs are in a different repo from your main project:
-        docsRepo: 'vuejs/vuepress',
+        docsRepo: 'unisens/unisens.org',
         // if your docs are not at the root of the repo:
         docsDir: 'docs',
         // if your docs are in a specific branch (defaults to 'master'):
